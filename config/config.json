@@ -1,0 +1,25 @@
+[
+  {
+    "development": {
+      "host": "localhost",
+      "user": "root",
+      "database": "companyemployee",
+      "password": "hajsaeed82",
+      "dialect": "mysql"
+    },
+    "test": {
+      "host": "localhost",
+      "user": "root",
+      "database": "companyemployee",
+      "password": "hajsaeed82",
+      "dialect": "mysql"
+    },
+    "production": {
+      "host": "localhost",
+      "user": "root",
+      "database": "companyemployee",
+      "password": "hajsaeed82",
+      "dialect": "mysql"
+    }
+  }
+]
