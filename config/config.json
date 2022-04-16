@@ -4,21 +4,21 @@
       "host": "localhost",
       "user": "root",
       "database": "companyemployee",
-      "password": "hajsaeed82",
+      "password": "09211953839",
       "dialect": "mysql"
     },
     "test": {
       "host": "localhost",
       "user": "root",
       "database": "companyemployee",
-      "password": "hajsaeed82",
+      "password": "09211953839",
       "dialect": "mysql"
     },
     "production": {
       "host": "localhost",
       "user": "root",
       "database": "companyemployee",
-      "password": "hajsaeed82",
+      "password": "09211953839",
       "dialect": "mysql"
     }
   }

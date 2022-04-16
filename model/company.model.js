@@ -90,5 +90,8 @@ const Company = sequelize.define("Company", {
 Company.hasMany(Employee, {
     onDelete: "CASCADE",
 });
+Company.belongsTo(Company, {
+    foreignKey: 'companyId'
+});
 Employee.belongsTo(Company);
 module.exports = Company;
